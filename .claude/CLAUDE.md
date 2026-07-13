@@ -31,5 +31,6 @@ capability manifest first -- reuse what `hldg_jeannai` provides instead of impro
 - **Standard:** `hldg_jeannai/engineering/standards/capability-discovery-standard.md` (CAP-STD-001)
 - GUI / web-app testing -> `gui-testing-standard.md` (GUI-STD-001) + `agent-browser-dogfood` skill + `tooling/testing-toolkit`
 - New files / repos -> `artifact-routing-standard.md` (ART-STD-001) + `repo-naming-standard.md`
+- Planning / dispatching multi-step AI work (effort, model, subagents) -> `ai-execution-planning-standard.md` (AEP-STD-001)
 
 If a capability exists, use it or justify the deviation. (Standardized per CAP-STD-001.)
