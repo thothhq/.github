@@ -22,6 +22,7 @@ capability manifest first -- reuse what `hldg_jeannai` provides instead of impro
 - GUI / web-app testing -> `gui-testing-standard.md` (GUI-STD-001) + `agent-browser-dogfood` skill + `tooling/testing-toolkit`
 - New files / repos -> `artifact-routing-standard.md` (ART-STD-001) + `repo-naming-standard.md`
 - Planning / dispatching multi-step AI work (effort, model, subagents) -> `ai-execution-planning-standard.md` (AEP-STD-001)
+- Committing, or a second session on the same repo -> `workspace-isolation-standard.md` (WSI-STD-001)
 
 > Parse `capabilities.yml` for the full machine-readable catalog of skills, agents,
 > conventions, MCP servers, and infrastructure. Inventory counts are deliberately not
