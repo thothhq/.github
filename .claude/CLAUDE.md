@@ -23,6 +23,7 @@ capability manifest first -- reuse what `hldg_jeannai` provides instead of impro
 - New files / repos -> `artifact-routing-standard.md` (ART-STD-001) + `repo-naming-standard.md`
 - Planning / dispatching multi-step AI work (effort, model, subagents) -> `ai-execution-planning-standard.md` (AEP-STD-001)
 - Committing, or a second session on the same repo -> `workspace-isolation-standard.md` (WSI-STD-001)
+- Merging a branch, landing a handover, citing a SHA -> `git-integration-standard.md` (GIT-STD-001): merge commits only
 
 > Parse `capabilities.yml` for the full machine-readable catalog of skills, agents,
 > conventions, MCP servers, and infrastructure. Inventory counts are deliberately not
